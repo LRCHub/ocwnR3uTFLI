@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Players' Player (feat. KREVA)",
+  "base_artist": "OZROSAURUS",
+  "createdAt": "2026-03-30T08:49:01.710912Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Players' Player feat. KREVA",
+      "artist": "OZROSAURUS",
+      "has_synced": false,
+      "path": "select/pl_01_Players'_Player_feat._KREVA_OZROSAURUS.txt"
+    }
+  ]
+}
